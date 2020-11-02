@@ -1,9 +1,13 @@
-## This repository was moved to [git.ad5001.eu](https://git.ad5001.eu/Ad5001/Spooky)
 # Spooky
-Halloween plugin.    
+
+Halloween plugin.
+
+**This repository was forked from [Ad5001/Spooky](https://github.com/Ad5001/Spooky)**
+
 A new bossfight's waiting for you and your players. <b>The Ghost is <i>here</i></b>.     
 Build a structure like this one: (be sure to place the pumpkin in last!)    
 <img src="https://download.ad5001.eu/other/Spooky/struct.jpeg"></img>
+
 
 
 Afterwards let the boss fight go!    
