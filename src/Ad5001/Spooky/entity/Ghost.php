@@ -435,12 +435,12 @@ class Ghost extends Human {
 				$e->setLevel(10);
 				$it->addEnchantment($e);
 				return [$it];
-				break;
+				// break;
 			case 1:
 				break;
 			case 2:
 				return [];
-				break;
+				// break;
 		}
 	}
 
